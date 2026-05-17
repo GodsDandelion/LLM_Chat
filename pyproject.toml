@@ -1,0 +1,11 @@
+[project]
+name = "llm-chat"
+version = "0.1.0"
+description = "FastAPI backend for LLM Chat (MCS architecture)"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
